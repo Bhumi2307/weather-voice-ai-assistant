@@ -1,0 +1,6 @@
+SpeechRecognition
+pyttsx3
+pyaudio
+nltk
+spacy
+requests
